@@ -12,7 +12,7 @@ const greeting = {
     "A passionate pre-final year CSE Undergrad 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / React Native / Nodejs / MongoDB and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/11CACGt3ne01da7jCN_3kLmQ-j1vGKSfe/view?usp=sharing",
+    "https://drive.google.com/file/d/1Qw1w5m_KcG4rtE7T8zBt_FI9rTQ5YLSP/view?usp=sharing",
 };
 
 // Your Social Media Link
