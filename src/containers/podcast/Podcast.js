@@ -19,20 +19,15 @@ export default function Podcast() {
             }
           >
             {podcastSection.subtitle}
+            <br />
+            <a href="https://www.youtube.com/channel/UCUNKlsGUtcwAclmyatjo1ow">
+              Channel link
+            </a>
           </p>
         </div>
         <div className="podcast-main-div">
           {podcastSection.podcast.map((podcastLink) => {
-            return (
-              <div>
-                <iframe
-                  className="podcast"
-                  src={podcastLink}
-                  frameborder="0"
-                  scrolling="no"
-                ></iframe>
-              </div>
-            );
+            return <div></div>;
           })}
         </div>
       </div>
